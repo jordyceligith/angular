@@ -1,0 +1,41 @@
+.titulo{
+    color: rgb(97, 88, 88);
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
+.parrafogris{
+    color: rgb(88, 88, 88);
+    font-size: 2em;
+}
+.nombre{
+    text-align: left;
+}
+
+
+table.tblapresupuesto{
+    
+    border-collapse: collapse;
+    border: 2px solid rgb(64, 64, 100);
+    border-color: rgb(49, 18, 226);
+    border-radius: 6em;
+}
+.tblapresupuesto .des{
+    text-align: center;
+    
+}
+.tblapresupuesto .su{
+    text-align: right;
+    font-weight: bold;
+}
+
+footer{
+   
+    font-weight: bold;
+    font-size: 3em;
+    color: chocolate;
+}
+table.tblapresupuesto .Descripcion{
+color: brown;
+}
