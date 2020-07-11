@@ -33,4 +33,7 @@ footer.piePagina h5{
 	width: 20%;
     display: inline-block;
     color: chocolate;
+    background-color: rgb(49, 46, 250);
+	width: 90%;
+	margin: 0 auto;
 }
