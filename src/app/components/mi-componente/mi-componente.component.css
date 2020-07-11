@@ -28,9 +28,10 @@ footer{
    
     font-weight: bold;
     font-size: 3em;
-    width: 20%;
-    display: inline-block;
-    color: rgb(69, 30, 210)133, 115);
+   
+    
+    background-color: blanchedalmond;
+    color: rgb(158, 133, 115);
    
 }
 table.tblapresupuesto .Descripcion{
