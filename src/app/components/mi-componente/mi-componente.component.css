@@ -17,6 +17,11 @@
 
 .tblapresupuesto .des{
     text-align: center;
+    background-color: rgb(36, 151, 218);
+	color: rgb(77, 86, 163);
+	width: 90%;
+	margin: 0 auto;
+
     
 }
 .tblapresupuesto .su{
@@ -27,7 +32,7 @@
 footer{
    
     font-weight: bold;
-    font-size: 3em;
+    font-size: 1em;
    
     
     background-color: blanchedalmond;
