@@ -24,12 +24,13 @@
     font-weight: bold;
 }
 
-footer{
-   
-    font-weight: bold;
-    font-size: 3em;
-    color: chocolate;
-}
+
 table.tblapresupuesto .Descripcion{
 color: brown;
+}
+footer.piePagina h5{
+
+	width: 20%;
+    display: inline-block;
+    color: chocolate;
 }
