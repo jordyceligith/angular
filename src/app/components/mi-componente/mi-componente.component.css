@@ -24,16 +24,15 @@
     font-weight: bold;
 }
 
-
+footer{
+   
+    font-weight: bold;
+    font-size: 3em;
+    width: 20%;
+    display: inline-block;
+    color: rgb(69, 30, 210)133, 115);
+   
+}
 table.tblapresupuesto .Descripcion{
 color: brown;
-}
-footer.piePagina h5{
-
-	width: 20%;
-    display: inline-block;
-    color: chocolate;
-    background-color: rgb(49, 46, 250);
-	width: 90%;
-	margin: 0 auto;
 }
