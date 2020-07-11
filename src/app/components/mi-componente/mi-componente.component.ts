@@ -12,8 +12,8 @@ export class MiComponente{
     public comentario: string;
     //public telefono: number;
     constructor(){
-        this.titulo="Taller:";
-        this.comentario="Presupuesto dominio";
+        this.titulo="Presupuesto para el dominio";
+   
       //  this.telefono=22222;
     }
 }

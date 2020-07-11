@@ -14,13 +14,7 @@
 }
 
 
-table.tblapresupuesto{
-    
-    border-collapse: collapse;
-    border: 2px solid rgb(64, 64, 100);
-    border-color: rgb(49, 18, 226);
-    border-radius: 6em;
-}
+
 .tblapresupuesto .des{
     text-align: center;
     
